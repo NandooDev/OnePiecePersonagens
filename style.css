@@ -43,8 +43,8 @@ body {
 
 #container #pede #perso img:hover {
     cursor: pointer;
-    -webkit-filter: drop-shadow(5px 5px 5px rgba(1, 63, 145, 0.5));
-    filter: drop-shadow(5px 5px 5px rgba(1, 63, 145, 0.5));
+    -webkit-filter: drop-shadow(10px 10px 10px rgba(0, 255, 21, 0.5));
+    filter: drop-shadow(10px 10px 10px rgba(0, 255, 21, 0.5));
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
 }
@@ -55,4 +55,6 @@ body {
     justify-content: center;
     height: 400px;
     align-items: center;
+    color: #ffffff;
+    font-family: 'Lilita One', cursive;
 }
